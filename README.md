@@ -1,8 +1,9 @@
 # Virtura 2114 纬线太空站 DIGITAL SPACEPORT VIRTURA 2114
 ![va-ep02-the-nav-system](https://github.com/ewanqian/VIRTURA2114/assets/61226505/cc3ba0fd-fc9d-4718-98f3-5eb481ac6055)
+![image](https://github.com/ewanqian/VIRTURA2114/assets/61226505/a1bc8e5d-1fd1-480f-9123-8484ccea2f12)
+
 
 ## 项目简介 Project Overview
-![virtura logoset](https://github.com/ewanqian/VIRTURA2114/assets/61226505/7d02ebc0-3b69-4093-9f36-0c8b4c314ed6)
 
 Virtura 2114 是一个虚拟空间站，致力于构建一个链接艺术家和设计师的文化社区平台。我们提供数字空间的感知设计文件、开源工具，帮助创意人员实现他们的设计梦想。
 
@@ -10,6 +11,8 @@ Virtura 2114 is a virtual space station dedicated to building a cultural communi
 
 Virtura 2114は、アーティストとデザイナーをつなぐ文化コミュニティプラットフォームの構築を目指した仮想宇宙ステーションです。私たちは、デジタル空間の知覚デザインファイルとオープンソースツールを提供し、クリエイティブな人々がデザインの夢を実現するのを支援します。
 
+![virtura logoset](https://github.com/ewanqian/VIRTURA2114/assets/61226505/7d02ebc0-3b69-4093-9f36-0c8b4c314ed6)
+![image](https://github.com/ewanqian/VIRTURA2114/assets/61226505/f5eb8c7f-e8c9-4348-a598-12bee5fc5e3d)
 ![WechatIMG1584](https://github.com/ewanqian/VIRTURA2114/assets/61226505/201f59a5-564f-492d-a9bf-4fd5105315ed)
 
 ## 主要功能 Main Features
