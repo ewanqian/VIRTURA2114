@@ -2,6 +2,7 @@
 ![va-ep02-the-nav-system](https://github.com/ewanqian/VIRTURA2114/assets/61226505/cc3ba0fd-fc9d-4718-98f3-5eb481ac6055)
 
 ## 项目简介
+![virtura logoset](https://github.com/ewanqian/VIRTURA2114/assets/61226505/7d02ebc0-3b69-4093-9f36-0c8b4c314ed6)
 
 Virtura 2114 是一个虚拟空间站，致力于构建一个链接艺术家和设计师的文化社区平台。我们提供数字空间的感知设计文件、开源工具，帮助创意人员实现他们的设计梦想。
 
@@ -9,30 +10,51 @@ Virtura 2114 is a virtual space station dedicated to building a cultural communi
 
 ## 主要功能
 
+![s1](https://github.com/ewanqian/VIRTURA2114/assets/61226505/55fb3fc5-61ae-4914-8888-c5eb1529181d)
 ### 硒檐自然疗养中心（Seleiumeaves Nature Retreat）
 位于数字空间内的一片宁静的松林景观中，中心提供了一系列身心疗愈的设施和服务，为访客在繁忙的数字生活中找到平衡和宁静。
 
+Located in a peaceful pine forest landscape within the digital space, the centre offers a range of mind and body healing facilities and services for visitors to find balance and peace in their busy digital lives.
+
+![bls](https://github.com/ewanqian/VIRTURA2114/assets/61226505/0f9571fc-9d87-4a5e-8313-a9a800061df2)
 ### 太空气球演出空间（Balloon Live Space）
 一个创新的数字艺术演出空间，致力于提供沉浸式的音乐和视觉艺术体验。
 
+An innovative digital arts performance space dedicated to providing immersive music and visual arts experiences.
+
+
+
+![VA](https://github.com/ewanqian/VIRTURA2114/assets/61226505/d8a84390-6595-4f46-8393-e78a417aefb0)
 ### 虚拟航线
 通过沉浸式环境设计，带领参观者探索计算机技术的历史，并启发对数字未来的思考。
 
+The immersive environment is designed to take visitors on an exploration of the history of computer technology and inspire thinking about the digital future.
+
+![ccc](https://github.com/ewanqian/VIRTURA2114/assets/61226505/122e864d-d8e1-4ec0-9fdb-c2b4d2625720)
 ### 代码对话者收藏中心（Code Talker Collection Centre）
 一个结合了商业空间设计、时尚元素，以及数字艺术展示的互动平台，致力于提供一个既能展现数字艺术，又能进行多元化商业交流的空间。
 
+An interactive platform that combines commercial space design, fashion elements, and the display of digital art, it is dedicated to providing a space for both digital art and diversified business exchanges.
+
+![mova](https://github.com/ewanqian/VIRTURA2114/assets/61226505/783dadc5-56fa-4928-a21b-c19e4e7c2809)
 ### 纬图艺术博物馆（Museum Of Virtura Art）
 一个致力于展示各类数字艺术的开放空间，为大众提供一个享受沉浸式艺术体验的平台。
 
+An open space dedicated to showcasing all types of digital art, providing a platform for the public to enjoy an immersive art experience.
+
+
+![VADG](https://github.com/ewanqian/VIRTURA2114/assets/61226505/79bc5065-7b66-44b1-970a-ae666946bf11)
 ### 纬线数字地理（VA Digital Geographic）
 致力于探索数字空间和物理空间交汇点，研究其对人体心理和身体影响的研究机构，同时关注环境影响并推动地理摄影及空间探险的发展。
+
+A research organisation dedicated to exploring the intersection of digital and physical space and its impact on the human psyche and body, whilst focusing on the environmental impact and advancing the development of geo-photography and space expeditions.
 
 ## 链接和资源
 
 - **GitHub项目**：我们在GitHub上分享项目的设计文档和开源工具，用户可以下载并参与开发。
-  - [Virtura 2114 GitHub项目](https://github.com/virtura2114/space-station)
+  - [Virtura 2114 GitHub项目](https://github.com/virtura2114)
 - **VR Chat地图**：访问我们的VR Chat虚拟空间，体验沉浸式的数字世界。
-  - [VR Chat地图]([https://vrchat.com/home/world/xyz](https://vrchat.com/home/launch?worldId=wrld_37a799c7-5568-46c6-b982-f9a131ad63b9))
+  - [VR Chat World](https://vrchat.com/home/launch?worldId=wrld_37a799c7-5568-46c6-b982-f9a131ad63b9)
 - **设计文档和图纸**：开源数字空间的设计文档和图纸，供用户下载和改进。
   - [设计文档](https://github.com/virtura2114/space-station/docs)
 - **社区资源**：加入我们的社区论坛，参与讨论和合作。
@@ -50,4 +72,6 @@ Virtura 2114 is a virtual space station dedicated to building a cultural communi
 Virtura 2114空间站及其各个功能空间不仅展示了数字空间和建筑设计理念，还体现了对未来数字空间演变的憧憬。用户能在这里诠释自己的文化和艺术故事，并通过空间计算技术，营造出虚实无缝的未来空间。
 
 欢迎加入Virtura 2114，一起探索数字宇宙的无限可能！
+
+![11 (1)](https://github.com/ewanqian/VIRTURA2114/assets/61226505/2eca3b99-6353-4aa6-86a9-b928bf806a6d)
 
