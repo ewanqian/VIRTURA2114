@@ -3,6 +3,7 @@
 
 ## 项目简介
 Virtura 2114 是一个虚拟空间站，致力于构建一个链接艺术家和设计师的文化社区平台。我们提供数字空间的感知设计文件、开源工具，帮助创意人员实现他们的设计梦想。
+
 Virtura 2114 is a virtual space station dedicated to building a cultural community platform linking artists and designers. We provide perceptual design files for digital spaces, open source tools to help creatives realise their design dreams.
 
 ## 功能列表
