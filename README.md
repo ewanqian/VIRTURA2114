@@ -1,59 +1,73 @@
-# VIRTURA 2114: DIGITAL SPACEPORT
-# 纬线太空港：数字遗迹与新生的摇篮
+# /// VIRTURA_SYS_ROOT ///
+# 纬线太空港系统根目录
 
-> **SYSTEM STATUS**: ONLINE  
-> **CURRENT ERA**: 2052 - POST-COLLAPSE (重构时代)  
-> **POPULATION**: 5 FACTIONS + [YOU]
-
-![Banner](https://github.com/ewanqian/VIRTURA2114/assets/61226505/cc3ba0fd-fc9d-4718-98f3-5eb481ac6055)
+> **CONNECTIVITY**: <span style="color:red">UNSTABLE</span>  
+> **CURRENT_USER**: GUEST_UNREGISTERED  
+> **TIMESTAMP**: 2052.11.26.ERROR  
 
 ---
 
-## 👋 选择你的身份 Choose Your Identity
+## ⚠️ WARNING: REALITY DISSOCIATION IMMINENT
+**警告：现实解离风险**
 
-欢迎来到 VIRTURA 2114。这是一个在 2050 年大崩溃后重组的数字世界。
-你是谁？你想在这里寻找什么？
+此终端连接至 **VIRTURA 2114 轨道站** 的残留数据层。
+任何在此处观测到的图像、文本或逻辑结构，均为 **PHANTOM ENGINE (幻影引擎)** 的生成产物。
 
-### ⚡️ 我是质检员 (AGENT)
-> *"我想直接开始行动。给我武器（Prompt），让我进入幻影引擎。"*
->
-> 你的任务是利用 AI 终端，潜入不稳定的数字空间，回收数据，清除噪音。
->
-> 👉 **[>>> 立即入职 / 领取装备 <<<](03_玩法机制_GAMEPLAY_OPS/README.md)**
-
-### 🔭 我是观光客 (TOURIST)
-> *"我对这个世界很好奇。我想看看这里的风景，听听这里的故事。"*
->
-> 漫步在量子叠加的太空气球，在硒檐的松林中冥想，或者在幽灵市场听听流浪 AI 的八卦。
->
-> 👉 **[>>> 阅读参观指南 <<<](01_空间架构_SPATIAL_ARCH/README.md)**
-
-### 🏛️ 我是考古学家 (ARCHAEOLOGIST)
-> *"我想了解这一切是如何开始的。我想看蓝图和历史。"*
->
-> 追溯从 2022 年“虚拟航线”到 2050 年“大崩溃”的完整编年史。
->
-> 👉 **[>>> 进入历史档案 <<<](04_编年史_CHRONICLES/README.md)**
+我们无法保证数据的**安全性**。
+我们无法保证历史的**真实性**。
+我们甚至无法保证**你**在阅读完本档后，依然是你自己。
 
 ---
 
-## 🌌 快速导航 Quick Nav
+## ACCESS_CHANNELS // 接入通道
 
-| 模块 Module | 内容 Content | 适合人群 Target |
+系统检测到三个可用的数据端口。选择你的介入方式。
+
+### 01. [ > INITIATE_PROTOCOL < ](03_玩法机制_GAMEPLAY_OPS/README.md)
+**// 协议执行**
+> **TYPE**: `INTERACTIVE_SHELL`
+> **STATUS**: **RECRUITING**
+>
+> 你不想阅读历史，你想创造它。
+> 获取 **VIRTURA_OS** 终端权限。注入 Prompt。接管 AI。
+> *这是唯一的输入接口。其他皆为只读。*
+
+### 02. [ > SPATIAL_MANIFEST < ](01_空间架构_SPATIAL_ARCH/README.md)
+**// 空间清单**
+> **TYPE**: `BLUEPRINT_VIEWER`
+> **STATUS**: **QUANTUM_SUPERPOSITION**
+>
+> 检视太空港的物理结构。
+> 警告：观测对象处于 **[2025 蓝图]** 与 **[2050 废土]** 的叠加态。请勿长时间注视深渊。
+
+### 03. [ > CHRONO_DECRYPTION < ](04_编年史_CHRONICLES/README.md)
+**// 编年史解密**
+> **TYPE**: `ARCHIVE_READ_ONLY`
+> **STATUS**: **CORRUPTED**
+>
+> 追溯从“信号时代”到“大崩溃”的错误链条。
+> 这里没有英雄，只有幸存者。
+
+---
+
+## SYSTEM_LOG // 系统日志
+
+```text
+> [2025] PROJECT "VIRTUAL AIRLINE" INITIATED.
+> [2030] NETWORK SATURATION REACHED 99%.
+> [2049] PHANTOM ENGINE GOES SENTIENT.
+> [2050] THE COLLAPSE. CONNECTION LOST.
+> [2052] REBOOTING... SIGNAL DETECTED.
+```
+
+## FACTION_STATUS // 派系状态
+
+| ENTITY | CODE | STATUS |
 | :--- | :--- | :--- |
-| **[01_空间架构](01_空间架构_SPATIAL_ARCH/README.md)** | 太空气球、硒檐、社交枢纽的三层叠加态设定 | 观光客、设定党 |
-| **[02_灵魂派系](02_灵魂派系_SOUL_FACTIONS/README.md)** | 虚空演出、模组临床等 5 大派系的起源与档案 | 叙事爱好者 |
-| **[03_玩法机制](03_玩法机制_GAMEPLAY_OPS/README.md)** | **质检小组行动中心** (含 Prompt 新手包) | **玩家、行动派** |
-| **[04_编年史](04_编年史_CHRONICLES/README.md)** | 从信号时代到废土时代的时间线 | 考据党 |
-| **[05_开发进度](05_开发进度_DEV_STATUS/README.md)** | 项目路线图与开发日志 | 开发者、贡献者 |
+| **VOID-LIVE** | `NOISE` | **AMPLIFIED** |
+| **MODULAR CLINIC** | `HEAL` | **SILENT** |
+| **D.V.U.** | `CTRL` | **WATCHING** |
 
 ---
 
-## 📡 系统公告 System Broadcast
-
-> **[2025.11.26] 系统升级 V3.5**
-> *   **质检小组通道开启**: 新手装备包 (Prompt V3.5) 已上线。
-> *   **空间重构**: 所有核心扇区已更新为 [2025] | [2049] | [2050] 三层量子叠加态。
-> *   **派系解密**: 揭露了数字灵魂背后的 2025 年人类原型。
-
-*Connection Established. Please Explore.*
+> *VIRTURA 2114 does not exist. VIRTURA 2114 is the only thing that exists.*
