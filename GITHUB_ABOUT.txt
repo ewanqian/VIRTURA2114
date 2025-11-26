@@ -1,0 +1,23 @@
+VIRTURA 2114 Digital Spaceport Archive
+
+An open-source cyberpunk worldbuilding project set in post-collapse 2050. Explore a fragmented digital civilization through 75+ documents, 80+ timeline events, and AI-powered interactive gameplay. Every location exists in three temporal states: Blueprint (2025), Golden Age (2049), and Wasteland (2050).
+
+开源赛博朋克世界构建项目，设定于 2050 年大崩溃后。通过 75+ 个文档、80+ 个时间线事件和 AI 驱动的互动玩法，探索破碎的数字文明。每个地点存在三种时空状态：蓝图期 (2025)、黄金期 (2049)、废土期 (2050)。
+
+---
+
+TOPICS/TAGS:
+cyberpunk, worldbuilding, interactive-fiction, ARG, AI-powered, post-apocalyptic, digital-civilization, collaborative-storytelling, chinese-scifi, open-source, narrative-design, text-adventure, faction-politics, temporal-layers
+
+赛博朋克, 世界构建, 互动小说, 侵入式现实游戏, AI驱动, 后末世, 数字文明, 协作叙事, 中文科幻, 开源, 叙事设计, 文字冒险, 派系政治, 时空层
+
+---
+
+WEBSITE (if applicable):
+https://github.com/ewanqian/VIRTURA2114
+
+---
+
+SHORT DESCRIPTION (for GitHub About section, max 350 chars):
+Post-collapse digital civilization worldbuilding. 75+ docs, 80+ events, 5 factions, 3 temporal layers per location. AI-powered text gameplay. Open-source collaborative storytelling. 后末世数字文明世界构建。75+文档，80+事件，5个派系，每地点3层时空。AI驱动文本玩法。开源协作叙事。
+
