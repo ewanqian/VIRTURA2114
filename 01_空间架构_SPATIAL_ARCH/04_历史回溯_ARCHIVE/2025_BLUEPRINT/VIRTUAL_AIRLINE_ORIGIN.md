@@ -37,7 +37,7 @@ Virtual Airline 的核心是四个连续的"世界"，代表计算机技术的�
 
 ---
 
-#### 2. 魔音世界 (Meme World)
+#### 2. 模因世界 (Meme World)
 **[TIME_PERIOD]**: 2000s - 2010s（互联网爆发期）  
 **[VISUAL]**: 彩色、混乱、信息过载  
 **[CONCEPT]**: 网络连接一切，信息如洪水般涌来，迷因（Meme）成为文化基因  
