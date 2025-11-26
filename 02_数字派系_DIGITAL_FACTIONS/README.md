@@ -19,7 +19,7 @@
 
 ## 🎭 派系图谱 Faction Spectrum
 
-### [01_虚空演出_VOID_LIVE](01_虚空演出_VOID_LIVE/README.md)
+### [01_回声联合体_ECHO_SYNDICATE](01_回声联合体_ECHO_SYNDICATE/README.md)
 *   **信条**: *"我们不是组织，我们是震荡之后还没消失的回声。"*
 *   **2025原型**: **失业的创意阶层**
     *   被AI和算法推荐机制淘汰的 VJ、DJ、交互设计师。
